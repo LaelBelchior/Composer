@@ -1,0 +1,10 @@
+{
+    "name": "laelbelchior/buscador-curso",
+    "description": "Projeto que busca cursos no site Alura",
+    "authors": [
+        {
+            "name": "Lael Belchior"
+        }
+    ],
+    "require": {}
+}
