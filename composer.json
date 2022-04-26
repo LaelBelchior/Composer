@@ -1,9 +1,11 @@
 {
-    "name": "laelbelchior/buscador-curso",
+    "name": "laelbelchior/buscador-cursos",
     "description": "Projeto que busca cursos no site Alura",
+    "type": "library",
     "authors": [
         {
-            "name": "Lael Belchior"
+            "name": "Lael Belchior",
+            "email": "laelbelchior@gmail.com"
         }
     ],
     "require": {}
