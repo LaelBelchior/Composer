@@ -3,6 +3,9 @@
 require 'vendor/autoload.php';
 require 'src/Buscador.php';
 
+Teste::metodo();
+exit();
+
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
